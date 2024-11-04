@@ -5,3 +5,4 @@
 1. **1957 - Delete Characters to makw Fancy String** (easy)
 2. **2490 - Circular Sentence** (easy)
 3. **796 - Rotate String** (easy)
+4. **3163 - String Compression iii** (medium)
