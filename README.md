@@ -6,3 +6,4 @@
 2. **2490 - Circular Sentence** (easy)
 3. **796 - Rotate String** (easy)
 4. **3163 - String Compression iii** (medium)
+5. **2914 - Minimum Numbrt of Changes to Make Binary String Beautiful** (medium)
