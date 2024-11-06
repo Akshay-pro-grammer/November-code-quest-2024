@@ -7,3 +7,4 @@
 3. **796 - Rotate String** (easy)
 4. **3163 - String Compression iii** (medium)
 5. **2914 - Minimum Numbrt of Changes to Make Binary String Beautiful** (medium)
+6. **3011 - Find if Array can be sorted** (medium)
