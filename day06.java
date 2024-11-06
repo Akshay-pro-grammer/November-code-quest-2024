@@ -2,7 +2,9 @@
 //we will go according to the hints which says that if we somehow group them into same bit numbers
 //then for a particular group we take the the max value and the min value
 //here the array does not need to be sorted because if we encounter a same bit we encountered before we will justmake another group
-//since we can only have adjacent swapping
+//since we can only swap adjacent elemnts having same number of bits
+//every single group can be sorted we just need to check if previous group max is lesser than current group min 
+//then only we are good to go
 class Solution {
     public static boolean canSortArray(int[] nums) {
         //initialize variables
@@ -20,7 +22,7 @@ class Solution {
                 
             }
             //now here if the bits are not equal we will skip becuase they fall in the same group
-            //else if previos max value is not greater then current min value , it cannot be sorted
+            //else if previous max value is not greater then current min value , the swaps are not possible and hence false
             else if (currentMinValue < previousMaxValue) {
                 return false;
             }
