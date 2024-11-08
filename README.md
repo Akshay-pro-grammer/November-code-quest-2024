@@ -9,3 +9,4 @@
 5. **2914 - Minimum Numbrt of Changes to Make Binary String Beautiful** (medium)
 6. **3011 - Find if Array can be sorted** (medium)
 7. **2275 - Largest Combination With Bitwise AND Greater Than Zero** (medium)
+8. **1829 Maximum XOR for Each Query** (medium)
